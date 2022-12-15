@@ -13,7 +13,7 @@ Development of embedded systems and implementation of electronic circuits (PCB d
 Skills: C / PYTHON / LABVIEW / SQL
 
 - 🔭 I’m currently working on CORPOELEC 
-- 🌱 I’m currently learning Data Analytics 
+- 🌱 I’m currently learning Data Science 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/brainmagdaleno//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/brainmagdaleno/home?authuser=1&pli=1)  
