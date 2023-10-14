@@ -1,20 +1,32 @@
-### Hi there 👋, my name is Brain
-#### I am an Electronic Engineer
-![I am an Electronic Engineer](https://media-exp1.licdn.com/dms/image/C4E16AQHgDXG2vMRXYA/profile-displaybackgroundimage-shrink_350_1400/0/1645492165743?e=1674691200&v=beta&t=O8DAjHNlbyhpTlcBAoU_eff_4HCLuuIX_EA6HiyJwpI)
+<h1 align="center">
+Hi there, my name is Brain
+	<a href="https://github.com/Bouaskaoun" target="_self">
+	</a>
+</h1>
+<p align="center">
+	<a href="https://github.com/Educacionbm">
+	</a>
+	<a href="https://github.com/Educacionbm">
+	</a>
+</p>
+<br/>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src=https://drive.google.com/file/d/1XcFJyFGN7hb1oAiRHY9pV4F5zHBS-Yr-/view?usp=drive_link
+	</a>
+</p>
 
-Lover of the application of technological solutions in process automation.
+<hr>
 
-Trained in the development and evaluation of electrical and electronic systems and equipment projects.
-
-I have coordinated maintenance projects, design and commissioning of SCADA/HMI systems.
-
-Development of embedded systems and implementation of electronic circuits (PCB design).
-
-Skills: C / PYTHON / LABVIEW / SQL
+<pre>
+💻 Lover of the application of technological solutions in process automation.
+📚 I have an Electronics Engineering from the Santiago Mariño Polytechnic
+📝 I have a great interest in the world of data and artificial intelligence.
+🔭 Trained in the development and evaluation of electrical and electronic systems and equipment projects.
+🌱 I have coordinated maintenance projects, design and commissioning of SCADA/HMI systems.
+🚩 Development of embedded systems and implementation of electronic circuits (PCB design).
+</pre>
+<hr>
 
 - 🔭 I’m currently working on CORPOELEC 
 - 🌱 I’m currently learning Data Science 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/brainmagdaleno//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/brainmagdaleno/home?authuser=1&pli=1)  
-
